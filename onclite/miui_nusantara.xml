@@ -10,5 +10,19 @@
     <Developer>Mhd Rezza</Developer>
     <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
     <DonateURL>http://t.me/MhdRezza23</DonateURL>
-    <Changelog>CHANGELOG SystemNew - Android 11 update (Redmi K30, Mi 9T)New - Added Widevine L1 support for Android 10 (Redmi Note 8) SettingsOptimization - Redesigned color scheme settings (Android 10 devices)Fix - "Items shown on the lock screen after swiping down" options didn't work properly CameraFix - Video from front camera was green while video stabilization was enabled (Mi 10 Ultra) MessagingOptimization - Redesigned settings layoutFix - "No conversations" icon was overlapping conversation view Mi 10 Pro, Mi 10, Redmi K30 Pro are expected to be released on Friday. TWRP issue for cmi/lmi still exist!Mi 10 Ultra is suspended due to Android 11 test</Changelog>
+    <Changelog>CHANGELOG 
+
+System
+
+New - Android 11 update (Redmi K30, Mi 9T)
+
+New - Added Widevine L1 support for Android 10 (Redmi Note 8) 
+
+Settings Optimization - Redesigned color scheme settings (Android 10 devices)Fix - "Items shown on the lock screen after swiping down" options didn't work properly 
+
+CameraFix - Video from front camera was green while video stabilization was enabled (Mi 10 Ultra) 
+
+MessagingOptimization - Redesigned settings layoutFix - "No conversations" icon was overlapping conversation view 
+
+Mi 10 Pro, Mi 10, Redmi K30 Pro are expected to be released on Friday. TWRP issue for cmi/lmi still exist!Mi 10 Ultra is suspended due to Android 11 test</Changelog>
 </ROM>
